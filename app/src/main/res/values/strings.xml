@@ -1,0 +1,1590 @@
+<resources>
+    <string name="app_name">Json offline database</string>
+
+
+    <string-array name="thana">
+
+        <item>ওসি রমনা</item>
+        <item>ওসি ধানমন্ডি</item>
+        <item>ওসি শাহাবাগ</item>
+        <item>ওসি নিউ মার্কেট</item>
+        <item>ওসি লালবাগ</item>
+        <item>ওসি কোতয়ালী</item>
+        <item>ওসি হাজারীবাগ</item>
+        <item>ওসি কামরাঙ্গীরচর</item>
+        <item>ওসি সুত্রাপুর</item>
+        <item>ওসি ডেমরা</item>
+        <item>ওসি শ্যামপুর</item>
+        <item>ওসি যাত্রাবাড়ী</item>
+        <item> ওসি মতিঝিল</item>
+        <item> ওসি সবুজবাগ</item>
+        <item> ওসি খিলগাও</item>
+        <item> ওসি পল্টন</item>
+        <item> ওসি উত্তরা</item>
+        <item> ওসি এয়ারপোর্ট</item>
+        <item> ওসি তুরাগ</item>
+        <item> ওসি উত্তরখান</item>
+        <item> ওসি দক্ষিনখান</item>
+        <item> ওসি গুলশান</item>
+        <item> ওসি ক্যান্টনমেন্ট</item>
+        <item> ওসি বাড্ডা</item>
+        <item> ওসি খিলক্ষেত</item>
+        <item> ওসি তেজগাও</item>
+        <item> ওসি তেজগাও শি/এ</item>
+        <item> ওসি মোহাম্মদপুর</item>
+        <item> ওসি আদাবর</item>
+        <item> ওসি মিরপুর</item>
+        <item> ওসি পল্লবী</item>
+        <item> ওসি কাফরুল</item>
+        <item> ওসি শাহ আলী</item>
+        <item>সিএমপি, চট্রগ্রাম:</item>
+        <item> ওসি কোতয়ালী, সিএমপি</item>
+        <item> ওসি পাহাড়তলী (নর্থ জোন)</item>
+        <item> ওসি পাচলাইশ</item>
+        <item> ওসি চান্দগাও</item>
+        <item> ওসি খুলসী</item>
+        <item> ওসি বাকুলিয়া</item>
+        <item> ওসি ওসি বায়েজিদ বোস্তামী</item>
+        <item> ওসি বন্দর</item>
+        <item> ওসি ডাবল মুরিং</item>
+        <item> ওসি হালিশহর</item>
+        <item> ওসি পতেঙ্গা</item>
+        <item> ওসি কর্ণফুলি</item>
+        <item> ওসি ইমিগ্রেশন (বন্দর)</item>
+        <item> ওসি পাহাড়তলী (বন্দর জোন)</item>
+        <item>কেএমপি, খুলনা:</item>
+        <item> ওসি খুলনা</item>
+        <item> ওসি সোনাডাঙ্গা</item>
+        <item> ওসি খালিশপুর</item>
+        <item> ওসি দৌলতপুর</item>
+        <item> ওসি খানজাহান আলী</item>
+        <item>আরএমপি, রাজশাহী:</item>
+        <item> ওসি বোয়ালিয়া</item>
+        <item> ওসি রাজাপুর</item>
+        <item> ওসি মতিহার</item>
+        <item> ওসি শাহ মাকদুম</item>
+        <item>ঢাকা বিভাগ:</item>
+        <item> ওসি সাভার</item>
+        <item> ওসি ধামরাই</item>
+        <item> ওসি কেরানীগঞ্জ</item>
+        <item> ওসি নবাবগঞ্জ</item>
+        <item> ওসি দোহার</item>
+        <item> ওসি আশুলিয়া</item>
+        <item> ওসি দক্ষিন কেরানীগঞ্জ</item>
+        <item>নারায়নগঞ্জ জেলা:</item>
+        <item> ওসি নারায়নগঞ্জ</item>
+        <item> ওসি ফতুল্লা</item>
+        <item> ওসি বন্দর</item>
+        <item> ওসি সিদ্দিরগঞ্জ</item>
+        <item> ওসি আড়াইহাজার</item>
+        <item> ওসি সোনারগাও</item>
+        <item> ওসি রুপগঞ্জ</item>
+        <item>গাজীপুর জেলা:</item>
+        <item> ওসি জয়দেবপুর</item>
+        <item> ওসি টংগী</item>
+        <item> ওসি কালিয়াকৈর</item>
+        <item> ওসি শ্রীপুর</item>
+        <item> ওসি কাপাসিয়া</item>
+        <item> ওসি কালিগঞ্জ</item>
+        <item>মানিকগঞ্জ জেলা:</item>
+        <item> ওসি মানিকগঞ্জ</item>
+        <item> ওসি ঘিওর</item>
+        <item> ওসি শিবালয়</item>
+        <item> ওসি দৌলতপুর</item>
+        <item> ওসি হরিরামপুর</item>
+        <item> ওসি সাটুরিয়া</item>
+        <item> ওসি সিংগাইর</item>
+        <item>মুন্সীগঞ্জ জেলা:</item>
+        <item> ওসি মুন্সীগঞ্জ</item>
+        <item> ওসি টংগীবাড়ী</item>
+        <item> ওসি লৌহজং</item>
+        <item> ওসি শ্রীনগর</item>
+        <item> ওসি সিরাজদীখান</item>
+        <item> ওসি গজারিয়া</item>
+        <item>নরসিংদী জেলা:</item>
+        <item> ওসি নরসিংদী</item>
+        <item> ওসি রায়পুর</item>
+        <item> ওসি শিবপুর</item>
+        <item> ওসি বেলাবো</item>
+        <item> ওসি মনোহরদী</item>
+        <item> ওসি পলাশ</item>
+        <item>ময়মনসিংহ জেলা:</item>
+        <item> ওসি কোতয়ালী মযমনসিংহ</item>
+        <item> ওসি মুক্তাগাছা</item>
+        <item> ওসি ফুলবাড়ী</item>
+        <item> ওসি ত্রিশাল</item>
+        <item> ওসি গৌরীপুর</item>
+        <item> ওসি ঈশ্বরগঞ্জ</item>
+        <item> ওসি নান্দাইল</item>
+        <item> ওসি ফুলপুর</item>
+        <item> ওসি হালুয়াঘাট</item>
+        <item> ওসি ধোবাউরা</item>
+        <item> ওসি গফরগাও</item>
+        <item> ওসি ভালুকা</item>
+        <item> ওসি তারাকান্দা</item>
+        <item>টাঙ্গাইল জেলা:</item>
+        <item> ওসি টাঙ্গাইল</item>
+        <item> ওসি মির্জাপুর</item>
+        <item> ওসি নাগরপুর</item>
+        <item> ওসি সখিপুর</item>
+        <item> ওসি বাসাইল</item>
+        <item> ওসি দেলদুয়ার</item>
+        <item> ওসি মধুপুর</item>
+        <item> ওসি ঘাটাইল</item>
+        <item> ওসি কালিহাতি</item>
+        <item> ওসি ভুয়াপুর</item>
+        <item> ওসি ওসি যমুনা ব্রীজ পূর্ব</item>
+        <item> ওসি ধনবাড়ী</item>
+        <item> ওসি গোপালপুর</item>
+        <item>চট্রগ্রাম বিভাগ:</item>
+        <item> ওসি রাউজান</item>
+        <item> ওসি হাটহাজারী</item>
+        <item> ওসি ফটিকছড়ি</item>
+        <item> ওসি রাংগুনিয়া</item>
+        <item> ওসি পটিয়া</item>
+        <item> ওসি মীরসরাই</item>
+        <item> ওসি সীতাকুন্ডু</item>
+        <item> ওসি আনোয়ারা</item>
+        <item> ওসি বোয়ালখালী</item>
+        <item> ওসি বাশখালী</item>
+        <item> ওসি সাতকানিয়া</item>
+        <item> ওসি লোহাগড়া</item>
+        <item> ওসি চান্দনাইশ</item>
+        <item>কক্সবাজার জেলা:</item>
+        <item> ওসি সন্দীপ</item>
+        <item> ওসি কক্সবাজার</item>
+        <item> ওসি রামু</item>
+        <item> ওসি উখিয়া</item>
+        <item> ওসি টেকনাফ</item>
+        <item> ওসি চকোরিয়া</item>
+        <item> ওসি কুতুবদিয়া</item>
+        <item> ওসি মহেষখালী</item>
+        <item> ওসি পেকুয়া</item>
+        <item>কুমিল্লা জেলা:</item>
+        <item> ওসি কোতয়ালী কুমিল্লা</item>
+        <item> ওসি চৌদ্দগ্রাম</item>
+        <item> ওসি দেবীদ্দার</item>
+        <item> ওসি হোমনা</item>
+        <item> ওসি লাকসাম</item>
+        <item> ওসি দাউদকান্দি</item>
+        <item> ওসি বুড়িচং</item>
+        <item> ওসি চান্দিনা</item>
+        <item> ওসি বরুরা</item>
+        <item> ওসি লাঙ্গলকোট</item>
+        <item> ওসি মুরাদনগর</item>
+        <item> ওসি ব্রাহ্মনপাড়া</item>
+        <item> ওসি মেঘনা</item>
+        <item> ওসি মনোহরগঞ্জ</item>
+        <item> ওসি তিতাস</item>
+        <item> ওসি সদর দক্ষিন কুমিল্লা</item>
+        <item>চাঁদপুর জেলা:</item>
+        <item> ওসি চাঁদপুর</item>
+        <item> ওসি হাজীগঞ্জ</item>
+        <item> ওসি মতলব</item>
+        <item> ওসি মতলব উত্তর</item>
+        <item> ওসি মতলব দক্ষিন</item>
+        <item> ওসি শাহারাস্তি</item>
+        <item> ওসি কচুয়া</item>
+        <item> ওসি ফরিদগঞ্জ</item>
+        <item> ওসি হাইমচর</item>
+        <item> ওসি ব্রাক্ষ্মনবাড়ীয়া সদর</item>
+        <item> ওসি সরাইল</item>
+        <item> ওসি আশুগঞ্জ</item>
+        <item> ওসি নাসিরনগর</item>
+        <item> ওসি নবীনগর</item>
+        <item> ওসি বাঞ্ছারামপুর</item>
+        <item> ওসি কসবা</item>
+        <item> ওসি আখাউড়া</item>
+        <item>নোয়াখালী জেলা:</item>
+        <item> ওসি সুধারাম, নোয়াখালী</item>
+        <item> ওসি বেগমগঞ্জ</item>
+        <item> ওসি সেনবাগ</item>
+        <item> ওসি সোনাইমুরি</item>
+        <item> ওসি কোম্পানীগঞ্জ</item>
+        <item> ওসি চাটখিল</item>
+        <item> ওসি হাতিয়া</item>
+        <item> ওসি চরজব্বার</item>
+        <item>লক্ষীপুর জেলা:</item>
+        <item> ওসি লক্ষীপুর</item>
+        <item> ওসি রায়পুরা</item>
+        <item> ওসি রামগঞ্জ</item>
+        <item> ওসি রামগাতি</item>
+        <item>ফেনী জেলা:</item>
+        <item> ওসি ফেনী</item>
+        <item> ওসি সোনাগাজী</item>
+        <item> ওসি ফুলগাজী</item>
+        <item> ওসি পরশুরাম</item>
+        <item> ওসি ছাগলনাইয়া</item>
+        <item> ওসি দাগনভুইয়া</item>
+        <item>রাজশাহী বিভাগ:</item>
+        <item> ওসি পবা</item>
+        <item> ওসি গুদাগাড়ি</item>
+        <item> ওসি তানর</item>
+        <item> ওসি মোহনপুর</item>
+        <item> ওসি পুঠিয়া</item>
+        <item> ওসি বাগমারা</item>
+        <item> ওসি দুর্গাপুর</item>
+        <item> ওসি চারঘাট</item>
+        <item> ওসি বাঘা</item>
+        <item> চাপাই নবাবগঞ্জ জেলা:</item>
+        <item> ওসি চাপাই নবাবগঞ্জ</item>
+        <item> ওসি শিবগঞ্জ</item>
+        <item> ওসি গোমস্তাপুর</item>
+        <item> ওসি নাচোল</item>
+        <item> ওসি ভোলাহাট</item>
+        <item>নওগাঁ জেলা:</item>
+        <item> ওসি নওগাঁ</item>
+        <item> ওসি রায়নগর</item>
+        <item> ওসি আত্রাই</item>
+        <item> ওসি ধামরাই</item>
+        <item> ওসি বুদলগাছি</item>
+        <item> ওসি মহাদেবপুর</item>
+        <item> ওসি পাটনীতলা</item>
+        <item> ওসি নিয়ামতপুর</item>
+        <item> ওসি মান্দা</item>
+        <item> ওসি সাপাহার</item>
+        <item> ওসি পর্শা</item>
+        <item>নাটোর জেলা:</item>
+        <item> ওসি নাটোর</item>
+        <item> ওসি সিংড়া</item>
+        <item> ওসি বাঘাতিপাড়া</item>
+        <item> ওসি গুরুদাসপুর</item>
+        <item> ওসি লালপুর</item>
+        <item> ওসি বরইগ্রাম</item>
+        <item> ওসি নলডাংগা</item>
+        <item>রংপুর জেলা:</item>
+        <item> ওসি কোতয়ালী, রংপুর</item>
+        <item> ওসি গঙ্গাচুড়া</item>
+        <item> ওসি ভোদরগঞ্জ</item>
+        <item> ওসি তারাগঞ্জ</item>
+        <item> ওসি মিঠাপুকুর</item>
+        <item> ওসি পীরগাছা</item>
+        <item> ওসি কাউনিয়া</item>
+        <item> ওসি পীরগঞ্জ</item>
+        <item>গাইবান্ধা জেলা:</item>
+        <item> ওসি গাইবান্ধা</item>
+        <item> ওসি সাদুল্লাপুর</item>
+        <item> ওসি সুন্দরগঞ্জ</item>
+        <item> ওসি পলাশবাড়ী</item>
+        <item> ওসি গোবিন্দগঞ্জ</item>
+        <item> ওসি সাতঘাটা</item>
+        <item> ওসি ফুলছড়ি</item>
+        <item>নীলফামারী জেলা:</item>
+        <item> ওসি নীলফামারী</item>
+        <item> ওসি সৈয়দপুর</item>
+        <item> ওসি জলঢাকা</item>
+        <item> ওসি কিশোরগঞ্জ (নীলফামারী)</item>
+        <item> ওসি ডোমার</item>
+        <item> ওসি ডিমলা</item>
+        <item> ওসি সৈয়দপুর পুলিশ ফাড়ী</item>
+        <item>কুড়িগ্রাম জেলা:</item>
+        <item> ওসি কুড়িগ্রাম</item>
+        <item> ওসি রাজারহাট</item>
+        <item> ওসি ফুলবাড়ী</item>
+        <item> ওসি নাগেশ্বর</item>
+        <item> ওসি বুরুঙ্গামারী</item>
+        <item> ওসি উলিপুর</item>
+        <item> ওসি চিলমারী</item>
+        <item> ওসি রৌমারী</item>
+        <item> ওসি রাজীবপুর</item>
+        <item> ওসি দুসমারা</item>
+        <item> ওসি কোচাকাটা</item>
+        <item>লালমনিরহাট জেলা:</item>
+        <item> ওসি লালমনিরহাট</item>
+        <item> ওসি আদিতমারি</item>
+        <item> ওসি কালিগঞ্জ</item>
+        <item> ওসি হাতিবান্দা</item>
+        <item> ওসি পাটগ্রাম</item>
+        <item>দিনাজপুর জেলা:</item>
+        <item> ওসি কোতয়ালী দিনাজপুর</item>
+        <item> ওসি চিরির বন্দর</item>
+        <item> ওসি রিরল</item>
+        <item> ওসি পার্বতীপুর</item>
+        <item> ওসি বীরগঞ্জ</item>
+        <item> ওসি বোছাগঞ্জ</item>
+        <item> ওসি কাহারোল</item>
+        <item> ওসি খানসামা</item>
+        <item> ওসি ফুলবাড়ী</item>
+        <item> ওসি বিরামপুর</item>
+        <item> ওসি নবাবগঞ্জ (দিনাজপুর)</item>
+        <item> ওসি ঘোড়াঘাট</item>
+        <item> ওসি হাকিমপুর</item>
+        <item>ঠাকুরগাঁও জেলা:</item>
+        <item> ওসি ঠাকুরগাওঁ</item>
+        <item> ওসি বালিয়াডাঙ্গী</item>
+        <item> ওসি রানীসঙ্কৌল</item>
+        <item> ওসি পীরগঞ্জ</item>
+        <item> ওসি হরিপুর</item>
+        <item>পঞ্চগড় জেলা:</item>
+        <item> ওসি পঞ্চগড়</item>
+        <item> ওসি বোদা</item>
+        <item> ওসি আটোয়ারী</item>
+        <item> ওসি তেতুলিয়া</item>
+        <item> ওসি দেবীগঞ্জ</item>
+        <item>পাবনা জেলা:</item>
+        <item> ওসি পাবনা</item>
+        <item> ওসি ঈশ্বরদী</item>
+        <item> ওসি আটঘরিয়া</item>
+        <item> ওসি চাটমোহর</item>
+        <item> ওসি ভঙ্গোরা</item>
+        <item> ওসি ফরিদপুর (পাবনা)</item>
+        <item> ওসি সূর্যনগর</item>
+        <item> ওসি বেড়া</item>
+        <item> ওসি সাথিয়া</item>
+        <item> ওসি আতাইকুলা</item>
+        <item>সিরাজগঞ্জ জেলা:</item>
+        <item> ওসি সিরাজগঞ্জ</item>
+        <item> ওসি শাহাজাদপুর</item>
+        <item> ওসি উল্লাপাড়া</item>
+        <item> ওসি চৌহালী</item>
+        <item> ওসি তারাস</item>
+        <item> ওসি কাজিপুর</item>
+        <item> ওসি কামারখন্দ</item>
+        <item> ওসি রায়গঞ্জ</item>
+        <item> ওসি বেলকুচি</item>
+        <item> ওসি যমুনা ব্রীজ পশ্চিম</item>
+        <item> ওসি সালাঙ্গা</item>
+        <item> ওসি এনায়েতপুর</item>
+        <item>বগুড়া জেলা:</item>
+        <item> ওসি বগুড়া</item>
+        <item> ওসি শিবগঞ্জ</item>
+        <item> ওসি সোনাতলা</item>
+        <item> ওসি গাবতলী</item>
+        <item> ওসি সারিয়াকান্দি</item>
+        <item> ওসি আদমদিঘী</item>
+        <item> ওসি ধুপচাচিয়া</item>
+        <item> ওসি কাহালু</item>
+        <item> ওসি শেরপুর</item>
+        <item> ওসি ধুনট</item>
+        <item> ওসি নন্দিগ্রাম</item>
+        <item> ওসি শাহজাহানপুর</item>
+        <item>জয়পুরহাট জেলা:</item>
+        <item> ওসি জয়পুরহাট</item>
+        <item> ওসি কালাই</item>
+        <item> ওসি ক্ষেতলাল</item>
+        <item> ওসি আক্কেলপুর</item>
+        <item> ওসি পাচবিবি</item>
+        <item>খুলনা বিভাগ:</item>
+        <item> ওসি ফুলতলা</item>
+        <item> ওসি দিঘলিয়া</item>
+        <item> ওসি পাইকগাছা</item>
+        <item> ওসি বটিয়াঘাটা</item>
+        <item> ওসি ডুমুরিয়া</item>
+        <item> ওসি তেরখাদা</item>
+        <item> ওসি রুপসা</item>
+        <item> ওসি দাকোপ</item>
+        <item> ওসি কয়রা</item>
+        <item>বাগেরহাট জেলা:</item>
+        <item> ওসি বাগেরহাট</item>
+        <item> ওসি ফকিরহাট</item>
+        <item> ওসি মোল্লারহাট</item>
+        <item> ওসি চিতলমারী</item>
+        <item> ওসি কচুয়া</item>
+        <item> ওসি মোরলগঞ্জ</item>
+        <item> ওসি শরনখোলা</item>
+        <item> ওসি মংলা</item>
+        <item> ওসি রামপাল</item>
+        <item>সাতক্ষীরা জেলা:</item>
+        <item> ওসি সাতক্ষীরা</item>
+        <item> ওসি কলারোয়া</item>
+        <item> ওসি তালা</item>
+        <item> ওসি কালিগঞ্জ</item>
+        <item> ওসি শ্যামনগর</item>
+        <item> ওসি দেবহাটা</item>
+        <item> ওসি আশাশুনি</item>
+        <item> ওসি পাটকেলঘাটা</item>
+        <item>যশোর জেলা:</item>
+        <item> ওসি কোতয়ালী যশোর</item>
+        <item> ওসি ঝিকরগাছা</item>
+        <item> ওসি শার্শা</item>
+        <item> ওসি চৌগাছা</item>
+        <item> ওসি মনিরামপুর</item>
+        <item> ওসি কেশবপুর</item>
+        <item> ওসি অভয়নগর</item>
+        <item> ওসি বাঘারপাড়া</item>
+        <item> ওসি বেনাপোল পোর্ট</item>
+        <item> ওসি বেনাপোল চেক পোষ্ট</item>
+        <item>মাগুরা জেলা:</item>
+        <item> ওসি মাগুরা</item>
+        <item> ওসি শালিখা</item>
+        <item> ওসি শ্রীপুর</item>
+        <item> ওসি মোহাম্মদপুর</item>
+        <item> ওসি ঝিনাইদহ</item>
+        <item> ওসি কালিগঞ্জ</item>
+        <item> ওসি শৈলকুপা</item>
+        <item> ওসি হরিনাকুন্ডু</item>
+        <item> ওসি কোটচাদপুর</item>
+        <item> ওসি মহেশপুর</item>
+        <item>নড়াইল জেলা:</item>
+        <item> ওসি নড়াইল</item>
+        <item> ওসি কালিয়া</item>
+        <item> ওসি লোহাগড়া</item>
+        <item> ওসি নড়াগাতি</item>
+        <item>কুষ্টিয়া জেলা:</item>
+        <item> ওসি কুষ্টিয়া</item>
+        <item> ওসি খোকসা</item>
+        <item> ওসি কুমারখালী</item>
+        <item> ওসি ভেড়ামারা</item>
+        <item> ওসি দৌলতপুর</item>
+        <item> ওসি মিরপুর</item>
+        <item> ওসি ইসলামী ইউনিভার্সিটি</item>
+        <item>চুয়াডাংগা জেলা:</item>
+        <item> ওসি চুয়াডাংগা</item>
+        <item> ওসি আলমডাংগা</item>
+        <item> ওসি জীবননগর</item>
+        <item> ওসি ডামুরহুদা</item>
+        <item> ওসি মেহেরপুর</item>
+        <item> ওসি গাংনী</item>
+        <item> ওসি মুজিবনগর</item>
+        <item>বরিশাল বিভাগ:</item>
+        <item> ওসি কোতয়ালী বরিশাল</item>
+        <item> ওসি হিজলা</item>
+        <item> ওসি মেহেদীগঞ্জ</item>
+        <item> ওসি মুলাদী</item>
+        <item> ওসি বাবুগঞ্জ</item>
+        <item> ওসি বাকেরগঞ্জ</item>
+        <item> ওসি বানারীপাড়া</item>
+        <item> ওসি আগৌলঝাড়া</item>
+        <item> ওসি গৌরনদী</item>
+        <item> ওসি উজিরপুর</item>
+        <item> ওসি ঝালকাঠি</item>
+        <item> ওসি নলছিঠি</item>
+        <item> ওসি রাজাপুর</item>
+        <item> ওসি কাঠালিয়া</item>
+        <item>ভোলা জেলা:</item>
+        <item> ওসি ভোলা</item>
+        <item> ওসি দৌলতখান</item>
+        <item> ওসি তজুমুদ্দিন</item>
+        <item> ওসি বোরহানউদ্দিন</item>
+        <item> ওসি লালমোহন</item>
+        <item> ওসি চরফ্যাশন</item>
+        <item> ওসি মনপুরা</item>
+        <item>পটুয়াখালী জেলা:</item>
+        <item> ওসি পটুয়াখালী</item>
+        <item> ওসি বাউফল</item>
+        <item> ওসি গলাচিপা</item>
+        <item> ওসি দশমিনা</item>
+        <item> ওসি দুমকী</item>
+        <item> ওসি কলাপাড়া</item>
+        <item> ওসি মির্জাগঞ্জ</item>
+        <item> ওসি রাঙ্গাবালি</item>
+        <item>পিরোজপুর জেলা:</item>
+        <item> ওসি পিরোজপুর</item>
+        <item> ওসি ভান্ডারিয়া</item>
+        <item> ওসি নেসারাবাদ</item>
+        <item> ওসি কাউখালী</item>
+        <item> ওসি নাজিরপুর</item>
+        <item> ওসি জিয়া নগর</item>
+        <item> ওসি মঠবাড়ীয়া</item>
+        <item> ওসি বরগুনা</item>
+        <item> ওসি আমতলী</item>
+        <item> ওসি পাথরঘাটা</item>
+        <item> ওসি বেতাগী</item>
+        <item> ওসি বামনা</item>
+        <item> ওসি তালতলি</item>
+        <item>সিলেট বিভাগ;</item>
+        <item> ওসি কোতয়ালী (সিলেট)</item>
+        <item> ওসি বালাগঞ্জ</item>
+        <item> ওসি জৈন্তাপুর</item>
+        <item> ওসি গোয়াইনঘাট</item>
+        <item> ওসি কানাইঘাট</item>
+        <item> ওসি কোম্পানীগঞ্জ</item>
+        <item> ওসি জকিগঞ্জ</item>
+        <item> ওসি বিয়ানীবাজার</item>
+        <item> ওসি গোলাপগঞ্জ</item>
+        <item> ওসি বিশ্বনাথ</item>
+        <item> ওসি ফেঞ্চুগঞ্জ</item>
+        <item> ওসি দক্ষিন সুরমা</item>
+        <item> ওসি ওসমানী নগর</item>
+        <item>হবিগঞ্জ জেলা:</item>
+        <item> ওসি হবিগঞ্জ</item>
+        <item> ওসি মাধবপুর</item>
+        <item> ওসি চুনারুঘাট</item>
+        <item> ওসি বাহুবল</item>
+        <item> ওসি লাখাই</item>
+        <item> ওসি নবীগঞ্জ</item>
+        <item> ওসি বানিয়াচং</item>
+        <item> ওসি আজমিরিগঞ্জ</item>
+        <item> ওসি শায়েস্তাগঞ্জ</item>
+        <item> সুনামগঞ্জ জেলা:</item>
+        <item> ওসি সুনামগঞ্জ</item>
+        <item> ওসি ছাতক</item>
+        <item> ওসি জগন্নাথপুর</item>
+        <item> ওসি তাহিরপুর</item>
+        <item> ওসি বিশ্বম্বরপুর</item>
+        <item> ওসি দোয়ারাবাজার</item>
+        <item> ওসি দিরাই</item>
+        <item> ওসি সালনা</item>
+        <item> ওসি জামালগঞ্জ</item>
+        <item> ওসি ধর্মপাশা</item>
+        <item> ওসি মধ্যনগর</item>
+        <item>মৌলভীবাজার জেলা:</item>
+        <item> ওসি মৌলভীবাজার</item>
+        <item> ওসি শ্রীমঙ্গল</item>
+        <item> ওসি কমলগঞ্জ</item>
+        <item> ওসি রাজনগর</item>
+        <item> ওসি কুলাউড়া</item>
+        <item> ওসি বড়লেখা</item>
+        <item> ওসি জুরি</item>
+
+    </string-array>
+
+
+    <string-array name="PhoneNo">
+        <item></item>
+        <item>01713373125</item>
+        <item>01713373126</item>
+        <item>01713373126</item>
+        <item>01713373126</item>
+        <item>01713373134</item>
+        <item>01713373135</item>
+        <item>01713373136</item>
+        <item>01713373136</item>
+        <item>01713373143</item>
+        <item>01713373144</item>
+        <item>01713373145</item>
+        <item>01713373147</item>
+        <item>01713373152</item>
+        <item>01713373153</item>
+        <item>01713373154</item>
+        <item>01713373155</item>
+        <item>01713373171</item>
+        <item>01713373172</item>
+        <item>01713373173</item>
+        <item>01713373174</item>
+        <item>1713373175</item>
+        <item>01713373171</item>
+        <item>01713373172</item>
+        <item>01713373173</item>
+        <item>01713373174</item>
+        <item>01713373160</item>
+        <item>01713373171</item>
+        <item>01713373172</item>
+        <item>01713373173</item>
+        <item>01713373179</item>
+        <item>01713373190</item>
+        <item>01713373191</item>
+        <item>01713373192</item>
+        <item></item>
+        <item>01713373256</item>
+        <item>01713373256</item>
+        <item>01713373256</item>
+        <item>01713373259</item>
+        <item>01713373270</item>
+        <item>01713373271</item>
+        <item>01713373272</item>
+        <item>0171337327</item>
+        <item>0171337327</item>
+        <item>01713373279</item>
+        <item>01713373270</item>
+        <item>01713373271</item>
+        <item>01713373272</item>
+        <item>01713373263</item>
+        <item></item>
+        <item>01713373275</item>
+        <item>0171337327</item>
+        <item>0171337327</item>
+        <item>0171337327</item>
+        <item>01713373289</item>
+        <item></item>
+        <item>01713373309</item>
+        <item>01713373310</item>
+        <item>01713373311</item>
+        <item>01713373312</item>
+        <item></item>
+        <item>01713373327</item>
+        <item>01713373327</item>
+        <item>01713373329</item>
+        <item>01713373330</item>
+        <item>01713373331</item>
+        <item>01713373332</item>
+        <item>017133733333</item>
+        <item></item>
+        <item>01713373345</item>
+        <item>01713373347</item>
+        <item>01713373347</item>
+        <item>01713373347</item>
+        <item>01713373349</item>
+        <item>01713373350</item>
+        <item>01713373351</item>
+        <item></item>
+        <item>01713373373</item>
+        <item>01713373374</item>
+        <item>01713373375</item>
+        <item>0171337337</item>
+        <item>0171337337</item>
+        <item>0171337337</item>
+        <item></item>
+        <item>01713373369</item>
+        <item>01713373360</item>
+        <item>01713373371</item>
+        <item>01713373372</item>
+        <item>01713373373</item>
+        <item>01713373374</item>
+        <item>01713373375</item>
+        <item></item>
+        <item>01713373396</item>
+        <item>01713373396</item>
+        <item>01713373396</item>
+        <item>01713373399</item>
+        <item>01713373400</item>
+        <item>01713373401</item>
+        <item></item>
+        <item>01713373412</item>
+        <item>01713373413</item>
+        <item>01713373414</item>
+        <item>01713373415</item>
+        <item>01713373418</item>
+        <item>01713373418</item>
+        <item></item>
+        <item>01713373430</item>
+        <item>01713373431</item>
+        <item>01713373432</item>
+        <item>01713373433</item>
+        <item>01713373434</item>
+        <item>01713373435</item>
+        <item>01713373436</item>
+        <item>01713373436</item>
+        <item>01713373436</item>
+        <item>01713373439</item>
+        <item>01713373440</item>
+        <item>01713373441</item>
+        <item>01713373442</item>
+        <item></item>
+        <item>01713373454</item>
+        <item>01713373455</item>
+        <item>01713373456</item>
+        <item>01713373456</item>
+        <item>01713373456</item>
+        <item>01713373459</item>
+        <item>01713373480</item>
+        <item>01713373481</item>
+        <item>01713373482</item>
+        <item>01713373483</item>
+        <item>01713373484</item>
+        <item>01713373465</item>
+        <item>0171337348</item>
+        <item></item>
+        <item>1713373639</item>
+        <item>1713373640</item>
+        <item>1713373641</item>
+        <item>1713373642</item>
+        <item>1713373643</item>
+        <item>1713373644</item>
+        <item>1713373645</item>
+        <item>1713373646</item>
+        <item>1713373647</item>
+        <item>1713373648</item>
+        <item>1713373649</item>
+        <item>1713373650</item>
+        <item>1713373651</item>
+        <item></item>
+        <item>1713373652</item>
+        <item>1713373663</item>
+        <item>1713373664</item>
+        <item>1713373665</item>
+        <item>1713373666</item>
+        <item>1713373667</item>
+        <item>1713373668</item>
+        <item>1713373669</item>
+        <item>1713373670</item>
+        <item></item>
+        <item>1713373685</item>
+        <item>1713373686</item>
+        <item>1713373687</item>
+        <item>1713373688</item>
+        <item>1713373689</item>
+        <item>1713373690</item>
+        <item>1713373691</item>
+        <item>1713373692</item>
+        <item>1713373693</item>
+        <item>1713373694</item>
+        <item>1713373695</item>
+        <item>1713373696</item>
+        <item>1713373697</item>
+        <item>1713373698</item>
+        <item>1713373699</item>
+        <item>1713373700</item>
+        <item></item>
+        <item>1713373712</item>
+        <item>1713373713</item>
+        <item>1713373714</item>
+        <item>1713373714</item>
+        <item>1713373715</item>
+        <item>1713373716</item>
+        <item>1713373717</item>
+        <item>1713373718</item>
+        <item>1713373719</item>
+        <item>1713373730</item>
+        <item>1713373731</item>
+        <item>1713373732</item>
+        <item>1713373733</item>
+        <item>1713373734</item>
+        <item>1713373735</item>
+        <item>1713373736</item>
+        <item>1713373737</item>
+        <item></item>
+        <item>1713373748</item>
+        <item>1713373749</item>
+        <item>1713373750</item>
+        <item>1713373751</item>
+        <item>1713373752</item>
+        <item>1713373753</item>
+        <item>1713373754</item>
+        <item>1713373755</item>
+        <item></item>
+        <item>1713373765</item>
+        <item>1713373766</item>
+        <item>1713373767</item>
+        <item>1713373768</item>
+        <item></item>
+        <item>1713373778</item>
+        <item>1713373779</item>
+        <item>1713373780</item>
+        <item>1713373781</item>
+        <item>1713373782</item>
+        <item>1713373783</item>
+        <item></item>
+        <item>1713373800</item>
+        <item>1713373801</item>
+        <item>1713373802</item>
+        <item>1713373803</item>
+        <item>1713373804</item>
+        <item>1713373805</item>
+        <item>1713373806</item>
+        <item>1713373807</item>
+        <item>1713373808</item>
+        <item></item>
+        <item>1713373819</item>
+        <item>1713373820</item>
+        <item>1713373821</item>
+        <item>1713373822</item>
+        <item>1713373823</item>
+        <item></item>
+        <item>1713373836</item>
+        <item>1713373837</item>
+        <item>1713373838</item>
+        <item>1713373839</item>
+        <item>1713373840</item>
+        <item>1713373841</item>
+        <item>1713373842</item>
+        <item>1713373843</item>
+        <item>1713373844</item>
+        <item>1713373845</item>
+        <item>1713373846</item>
+        <item></item>
+        <item>1713373857</item>
+        <item>1713373858</item>
+        <item>1713373859</item>
+        <item>1713373860</item>
+        <item>1713373861</item>
+        <item>1713373862</item>
+        <item>1713373863</item>
+        <item></item>
+        <item>1713373874</item>
+        <item>1713373875</item>
+        <item>1713373876</item>
+        <item>1713373877</item>
+        <item>1713373878</item>
+        <item>1713373879</item>
+        <item>1713373880</item>
+        <item>1713373881</item>
+        <item></item>
+        <item>1713373892</item>
+        <item>1713373893</item>
+        <item>1713373894</item>
+        <item>1713373895</item>
+        <item>1713373896</item>
+        <item>1713373897</item>
+        <item>1713373898</item>
+        <item></item>
+        <item>1713373909</item>
+        <item>1713373910</item>
+        <item>1713373911</item>
+        <item>1713373912</item>
+        <item>1713373913</item>
+        <item>1713373914</item>
+        <item>1713373915</item>
+        <item></item>
+        <item>1713373926</item>
+        <item>1713373927</item>
+        <item>1713373928</item>
+        <item>1713373929</item>
+        <item>1713373930</item>
+        <item>1713373931</item>
+        <item>1713373932</item>
+        <item>1713373933</item>
+        <item>1713373934</item>
+        <item>1713373935</item>
+        <item>1713373936</item>
+        <item></item>
+        <item>1713373946</item>
+        <item>1713373947</item>
+        <item>1713373948</item>
+        <item>1713373949</item>
+        <item>1713373950</item>
+        <item></item>
+        <item>1713373963</item>
+        <item>1713373964</item>
+        <item>1713373965</item>
+        <item>1713373966</item>
+        <item>1713373967</item>
+        <item>1713373968</item>
+        <item>1713373969</item>
+        <item>1713373970</item>
+        <item>1713373971</item>
+        <item>1713373972</item>
+        <item>1713373973</item>
+        <item>1713373974</item>
+        <item>1713373975</item>
+        <item></item>
+        <item>1713373985</item>
+        <item>1713373986</item>
+        <item>1713373987</item>
+        <item>1713373988</item>
+        <item>1713373989</item>
+        <item></item>
+        <item>1713373999</item>
+        <item>1713374000</item>
+        <item>1713374001</item>
+        <item>1713374002</item>
+        <item>1713374003</item>
+        <item></item>
+        <item>1713374016</item>
+        <item>1713374017</item>
+        <item>1713374018</item>
+        <item>1713374019</item>
+        <item>1713374020</item>
+        <item>1713374021</item>
+        <item>1713374022</item>
+        <item>1713374023</item>
+        <item>1713374024</item>
+        <item>1713374025</item>
+        <item></item>
+        <item>1713374038</item>
+        <item>1713374039</item>
+        <item>1713374040</item>
+        <item>1713374041</item>
+        <item>1713374042</item>
+        <item>1713374043</item>
+        <item>1713374044</item>
+        <item>1713374045</item>
+        <item>1713374046</item>
+        <item>1713374047</item>
+        <item>1713374048</item>
+        <item>1713374049</item>
+        <item></item>
+        <item>1713374061</item>
+        <item>1713374062</item>
+        <item>1713374063</item>
+        <item>1713374064</item>
+        <item>1713374065</item>
+        <item>1713374066</item>
+        <item>1713374067</item>
+        <item>1713374068</item>
+        <item>1713374069</item>
+        <item>1713374070</item>
+        <item>1713374071</item>
+        <item>1713374072</item>
+        <item></item>
+        <item>1713374082</item>
+        <item>1713374083</item>
+        <item>1713374084</item>
+        <item>1713374085</item>
+        <item>1713374086</item>
+        <item></item>
+        <item>1713374103</item>
+        <item>1713374104</item>
+        <item>1713374105</item>
+        <item>1713374106</item>
+        <item>1713374107</item>
+        <item>1713374108</item>
+        <item>1713374109</item>
+        <item>1713374110</item>
+        <item>1713374111</item>
+        <item></item>
+        <item>1713374122</item>
+        <item>1713374123</item>
+        <item>1713374124</item>
+        <item>1713374125</item>
+        <item>1713374126</item>
+        <item>1713374127</item>
+        <item>1713374128</item>
+        <item>1713374129</item>
+        <item>1713374130</item>
+        <item></item>
+        <item>1713374141</item>
+        <item>1713374142</item>
+        <item>1713374143</item>
+        <item>1713374144</item>
+        <item>1713374145</item>
+        <item>1713374146</item>
+        <item>1713374147</item>
+        <item>1713374148</item>
+        <item></item>
+        <item>1713374161</item>
+        <item>1713374162</item>
+        <item>1713374163</item>
+        <item>1713374164</item>
+        <item>1713374165</item>
+        <item>1713374166</item>
+        <item>1713374167</item>
+        <item>1713374168</item>
+        <item>1713374169</item>
+        <item>1713374170</item>
+        <item></item>
+        <item>01713374179</item>
+        <item>01713374180</item>
+        <item>01713374181</item>
+        <item>01713374182</item>
+        <item>01713374192</item>
+        <item>01713374193</item>
+        <item>01713374194</item>
+        <item>01713374195</item>
+        <item>01713374196</item>
+        <item>01713374197</item>
+        <item></item>
+        <item>01713374206</item>
+        <item>01713374207</item>
+        <item>01713374208</item>
+        <item>01713374209</item>
+        <item></item>
+        <item>01713374220</item>
+        <item>01713374221</item>
+        <item>01713374222</item>
+        <item>01713374223</item>
+        <item>01713374224</item>
+        <item>01713374225</item>
+        <item>01713374226</item>
+        <item></item>
+        <item>01713374236</item>
+        <item>01713374237</item>
+        <item>01713374238</item>
+        <item>01713374239</item>
+        <item>01713374249</item>
+        <item>01713374250</item>
+        <item>01713374251</item>
+        <item></item>
+        <item>01713374267</item>
+        <item>01713374268</item>
+        <item>01713374269</item>
+        <item>01713374270</item>
+        <item>01713374271</item>
+        <item>01713374272</item>
+        <item>01713374273</item>
+        <item>01713374274</item>
+        <item>01713374275</item>
+        <item>01713374276</item>
+        <item>01713374286</item>
+        <item>01713374287</item>
+        <item>01713374288</item>
+        <item>01713374289</item>
+        <item></item>
+        <item>01713374300</item>
+        <item>01713374301</item>
+        <item>01713374302</item>
+        <item>01713374303</item>
+        <item>01713374304</item>
+        <item>01713374305</item>
+        <item>01713374306</item>
+        <item></item>
+        <item>01713374318</item>
+        <item>01713374319</item>
+        <item>01713374320</item>
+        <item>01713374321</item>
+        <item>01713374322</item>
+        <item>01713374323</item>
+        <item>01713374324</item>
+        <item>01713374325</item>
+        <item></item>
+        <item>01713374336</item>
+        <item>01713374337</item>
+        <item>01713374338</item>
+        <item>01713374339</item>
+        <item>01713374340</item>
+        <item>01713374341</item>
+        <item>01713374342</item>
+        <item>01713374353</item>
+        <item>01713374354</item>
+        <item>01713374355</item>
+        <item>01713374356</item>
+        <item>01713374357</item>
+        <item>01713374358</item>
+        <item></item>
+        <item>01713374375</item>
+        <item>01713374376</item>
+        <item>01713374377</item>
+        <item>01713374378</item>
+        <item>01713374379</item>
+        <item>01713374380</item>
+        <item>01713374381</item>
+        <item>01713374382</item>
+        <item>01713374383</item>
+        <item>01713374384</item>
+        <item>01713374385</item>
+        <item>01713374386</item>
+        <item>01713374387</item>
+        <item></item>
+        <item>01713374398</item>
+        <item>01713374399</item>
+        <item>01713374400</item>
+        <item>01713374401</item>
+        <item>01713374402</item>
+        <item>01713374403</item>
+        <item>01713374404</item>
+        <item>01713374405</item>
+        <item>01713374406</item>
+        <item></item>
+        <item>01713374418</item>
+        <item>01713374419</item>
+        <item>01713374420</item>
+        <item>01713374421</item>
+        <item>01713374422</item>
+        <item>01713374423</item>
+        <item>01713374424</item>
+        <item>01713374425</item>
+        <item>01713374426</item>
+        <item>01713374427</item>
+        <item>01713374428</item>
+        <item></item>
+        <item>01713374439</item>
+        <item>01713374440</item>
+        <item>01713374441</item>
+        <item>01713374442</item>
+        <item>01713374443</item>
+        <item>01713374444</item>
+        <item>01713374445</item>
+
+
+    </string-array>
+
+
+    <string-array name="sl">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>7</item>
+        <item>8</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+
+    </string-array>
+
+
+</resources>

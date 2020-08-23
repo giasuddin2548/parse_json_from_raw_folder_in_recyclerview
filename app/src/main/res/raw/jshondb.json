@@ -1,0 +1,677 @@
+﻿
+[
+    {
+      "brand_id": "112",
+      "brand_name": "Symphony",
+      "brand_image": "83535_9811be7abb0a30e77045ec485eccd8f2.jpg",
+      "total_mobile": "2"
+    },
+    {
+      "brand_id": "111",
+      "brand_name": "Honor ",
+      "brand_image": "5729_honor-logo.png",
+      "total_mobile": "25"
+    },
+    {
+      "brand_id": "110",
+      "brand_name": "Realme",
+      "brand_image": "93081_relame.png",
+      "total_mobile": "14"
+    },
+    {
+      "brand_id": "109",
+      "brand_name": "ZTE",
+      "brand_image": "61512_ZTE.png",
+      "total_mobile": "218"
+    },
+    {
+      "brand_id": "108",
+      "brand_name": "YU",
+      "brand_image": "79453_YU.png",
+      "total_mobile": "10"
+    },
+    {
+      "brand_id": "107",
+      "brand_name": "Yota",
+      "brand_image": "86550_Yota.png",
+      "total_mobile": "2"
+    },
+    {
+      "brand_id": "106",
+      "brand_name": "Yezz",
+      "brand_image": "25151_Yezz.jpg",
+      "total_mobile": "87"
+    },
+    {
+      "brand_id": "105",
+      "brand_name": "XOLO",
+      "brand_image": "8515_Logo_that_represent_Xolo_brand_2014-01-27_02-29.jpg",
+      "total_mobile": "80"
+    },
+    {
+      "brand_id": "104",
+      "brand_name": "Xiaomi",
+      "brand_image": "48272_Xiaomi.png",
+      "total_mobile": "69"
+    },
+    {
+      "brand_id": "103",
+      "brand_name": "XCute",
+      "brand_image": "4319_XCute.png",
+      "total_mobile": "4"
+    },
+    {
+      "brand_id": "102",
+      "brand_name": "WIND",
+      "brand_image": "22920_WND.png",
+      "total_mobile": "5"
+    },
+    {
+      "brand_id": "101",
+      "brand_name": "Wiko",
+      "brand_image": "51703_Wiko.jpg",
+      "total_mobile": "35"
+    },
+    {
+      "brand_id": "100",
+      "brand_name": "Vodafone",
+      "brand_image": "65227_8_vodafone_uk_2016.png",
+      "total_mobile": "78"
+    },
+    {
+      "brand_id": "99",
+      "brand_name": "VK Mobile",
+      "brand_image": "42883_1474126051.jpg",
+      "total_mobile": "31"
+    },
+    {
+      "brand_id": "98",
+      "brand_name": "Vivo",
+      "brand_image": "16064_vivo.jpg",
+      "total_mobile": "47"
+    },
+    {
+      "brand_id": "97",
+      "brand_name": "verykool",
+      "brand_image": "95769_Verykool-official-logo-of-the-company-fb.jpg",
+      "total_mobile": "127"
+    },
+    {
+      "brand_id": "96",
+      "brand_name": "Vertu",
+      "brand_image": "75063_Vertu.png",
+      "total_mobile": "17"
+    },
+    {
+      "brand_id": "95",
+      "brand_name": "Unnecto",
+      "brand_image": "34429_Unnecto.jpg",
+      "total_mobile": "30"
+    },
+    {
+      "brand_id": "94",
+      "brand_name": "Toshiba",
+      "brand_image": "81966_Toshiba.png",
+      "total_mobile": "35"
+    },
+    {
+      "brand_id": "93",
+      "brand_name": "Thuraya",
+      "brand_image": "32724_logo.png",
+      "total_mobile": "1"
+    },
+    {
+      "brand_id": "92",
+      "brand_name": "Telit",
+      "brand_image": "91890_download.png",
+      "total_mobile": "30"
+    },
+    {
+      "brand_id": "91",
+      "brand_name": "Tel.Me.",
+      "brand_image": "57636_download.png",
+      "total_mobile": "7"
+    },
+    {
+      "brand_id": "90",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "52"
+    },
+    {
+      "brand_id": "89",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "120"
+    },
+    {
+      "brand_id": "88",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "188"
+    },
+    {
+      "brand_id": "87",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "120"
+    },
+    {
+      "brand_id": "86",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "13"
+    },
+    {
+      "brand_id": "85",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "94"
+    },
+    {
+      "brand_id": "84",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "45"
+    },
+    {
+      "brand_id": "83",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "25"
+    },
+    {
+      "brand_id": "82",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "19"
+    },
+    {
+      "brand_id": "81",
+      "brand_name": "Samsung",
+      "brand_image": "17016_Samsung-Logo.png",
+      "total_mobile": "1125"
+    },
+    {
+      "brand_id": "80",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "120"
+    },
+    {
+      "brand_id": "79",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "21"
+    },
+    {
+      "brand_id": "78",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "79"
+    },
+    {
+      "brand_id": "77",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "0"
+    },
+    {
+      "brand_id": "76",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "56"
+    },
+    {
+      "brand_id": "75",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "30"
+    },
+    {
+      "brand_id": "74",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "90"
+    },
+    {
+      "brand_id": "73",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "227"
+    },
+    {
+      "brand_id": "72",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "10"
+    },
+    {
+      "brand_id": "71",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "72"
+    },
+    {
+      "brand_id": "70",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "96"
+    },
+    {
+      "brand_id": "69",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "16"
+    },
+    {
+      "brand_id": "68",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "18"
+    },
+    {
+      "brand_id": "67",
+      "brand_name": "Oppo",
+      "brand_image": "34360_ca88da37-363a-4464-9b08-b7aa86d1e4e1.jpg",
+      "total_mobile": "86"
+    },
+    {
+      "brand_id": "66",
+      "brand_name": "OnePlus",
+      "brand_image": "17480_oneplus-logo.png",
+      "total_mobile": "18"
+    },
+    {
+      "brand_id": "65",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "45"
+    },
+    {
+      "brand_id": "64",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "3"
+    },
+    {
+      "brand_id": "63",
+      "brand_name": "Nokia",
+      "brand_image": "14914_nokia.png",
+      "total_mobile": "451"
+    },
+    {
+      "brand_id": "62",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "30"
+    },
+    {
+      "brand_id": "61",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "3"
+    },
+    {
+      "brand_id": "60",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "73"
+    },
+    {
+      "brand_id": "59",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "5"
+    },
+    {
+      "brand_id": "58",
+      "brand_name": "Motorola",
+      "brand_image": "95140_Motorola.jpg",
+      "total_mobile": "445"
+    },
+    {
+      "brand_id": "57",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "8"
+    },
+    {
+      "brand_id": "56",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "25"
+    },
+    {
+      "brand_id": "55",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "12"
+    },
+    {
+      "brand_id": "54",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "30"
+    },
+    {
+      "brand_id": "53",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "261"
+    },
+    {
+      "brand_id": "52",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "32"
+    },
+    {
+      "brand_id": "51",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "41"
+    },
+    {
+      "brand_id": "50",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "31"
+    },
+    {
+      "brand_id": "49",
+      "brand_name": "LG",
+      "brand_image": "30452_LG-Symbol.jpg",
+      "total_mobile": "592"
+    },
+    {
+      "brand_id": "48",
+      "brand_name": "Lenovo",
+      "brand_image": "27257_32023-4-lenovo-logo-transparent-thumb.png",
+      "total_mobile": "169"
+    },
+    {
+      "brand_id": "47",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "9"
+    },
+    {
+      "brand_id": "46",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "104"
+    },
+    {
+      "brand_id": "45",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "23"
+    },
+    {
+      "brand_id": "44",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "60"
+    },
+    {
+      "brand_id": "43",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "3"
+    },
+    {
+      "brand_id": "42",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "15"
+    },
+    {
+      "brand_id": "41",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "5"
+    },
+    {
+      "brand_id": "40",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "18"
+    },
+    {
+      "brand_id": "39",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "60"
+    },
+    {
+      "brand_id": "38",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "37"
+    },
+    {
+      "brand_id": "37",
+      "brand_name": "",
+      "brand_image": "",
+      "total_mobile": "34"
+    },
+    {
+      "brand_id": "36",
+      "brand_name": "Huawei",
+      "brand_image": "54135_huawei.jpg",
+      "total_mobile": "258"
+    },
+    {
+      "brand_id": "35",
+      "brand_name": "HTC",
+      "brand_image": "59136_HTC-100x100.jpg",
+      "total_mobile": "251"
+    },
+    {
+      "brand_id": "34",
+      "brand_name": "HP",
+      "brand_image": "",
+      "total_mobile": "41"
+    },
+    {
+      "brand_id": "33",
+      "brand_name": "Haier",
+      "brand_image": "",
+      "total_mobile": "50"
+    },
+    {
+      "brand_id": "32",
+      "brand_name": "Google",
+      "brand_image": "17716_Google-100x100.jpg",
+      "total_mobile": "4"
+    },
+    {
+      "brand_id": "31",
+      "brand_name": "Gionee",
+      "brand_image": "",
+      "total_mobile": "69"
+    },
+    {
+      "brand_id": "30",
+      "brand_name": "Gigabyte",
+      "brand_image": "",
+      "total_mobile": "63"
+    },
+    {
+      "brand_id": "29",
+      "brand_name": "Garmin-Asus",
+      "brand_image": "",
+      "total_mobile": "5"
+    },
+    {
+      "brand_id": "28",
+      "brand_name": "Fujitsu Siemens",
+      "brand_image": "",
+      "total_mobile": "2"
+    },
+    {
+      "brand_id": "27",
+      "brand_name": "Eten",
+      "brand_image": "46804_eten.png",
+      "total_mobile": "22"
+    },
+    {
+      "brand_id": "26",
+      "brand_name": "Ericsson",
+      "brand_image": "6245_erisson.jpg",
+      "total_mobile": "40"
+    },
+    {
+      "brand_id": "25",
+      "brand_name": "Energizer",
+      "brand_image": "5092_exr.png",
+      "total_mobile": "5"
+    },
+    {
+      "brand_id": "24",
+      "brand_name": "Emporia",
+      "brand_image": "21737_logo_sm.png",
+      "total_mobile": "15"
+    },
+    {
+      "brand_id": "23",
+      "brand_name": "Dell",
+      "brand_image": "37828_download.jpg",
+      "total_mobile": "20"
+    },
+    {
+      "brand_id": "22",
+      "brand_name": "Coolpad",
+      "brand_image": "68455_images.jpg",
+      "total_mobile": "20"
+    },
+    {
+      "brand_id": "21",
+      "brand_name": "Chea",
+      "brand_image": "10735_download.png",
+      "total_mobile": "12"
+    },
+    {
+      "brand_id": "20",
+      "brand_name": "Celkon",
+      "brand_image": "10862_download.png",
+      "total_mobile": "229"
+    },
+    {
+      "brand_id": "19",
+      "brand_name": "Cat",
+      "brand_image": "70196_download.png",
+      "total_mobile": "9"
+    },
+    {
+      "brand_id": "18",
+      "brand_name": "Casio",
+      "brand_image": "20765_download.png",
+      "total_mobile": "5"
+    },
+    {
+      "brand_id": "17",
+      "brand_name": "BQ",
+      "brand_image": "25181_330px-B&Q_company_logo.svg.png",
+      "total_mobile": "12"
+    },
+    {
+      "brand_id": "16",
+      "brand_name": "Bosch",
+      "brand_image": "48580_download.png",
+      "total_mobile": "10"
+    },
+    {
+      "brand_id": "15",
+      "brand_name": "BLU",
+      "brand_image": "3332_download.png",
+      "total_mobile": "234"
+    },
+    {
+      "brand_id": "14",
+      "brand_name": "BlackBerry",
+      "brand_image": "89088_Blackberry-logo-vector_cópia.jpg",
+      "total_mobile": "87"
+    },
+    {
+      "brand_id": "13",
+      "brand_name": "Bird",
+      "brand_image": "68592_bird.jpg",
+      "total_mobile": "61"
+    },
+    {
+      "brand_id": "12",
+      "brand_name": "BenQ-Siemens",
+      "brand_image": "91934_Benq-siemens-logo.png",
+      "total_mobile": "27"
+    },
+    {
+      "brand_id": "11",
+      "brand_name": "BenQ",
+      "brand_image": "71991_benq-logo-new-m.png",
+      "total_mobile": "35"
+    },
+    {
+      "brand_id": "10",
+      "brand_name": "Benefon",
+      "brand_image": "46032_Benefon.png",
+      "total_mobile": "9"
+    },
+    {
+      "brand_id": "9",
+      "brand_name": "AT&T",
+      "brand_image": "2601_tnt.png",
+      "total_mobile": "4"
+    },
+    {
+      "brand_id": "8",
+      "brand_name": "Asus",
+      "brand_image": "20933_asus.png",
+      "total_mobile": "150"
+    },
+    {
+      "brand_id": "7",
+      "brand_name": "Archos",
+      "brand_image": "92503_archos.png",
+      "total_mobile": "31"
+    },
+    {
+      "brand_id": "6",
+      "brand_name": "Apple",
+      "brand_image": "65808_apple.png",
+      "total_mobile": "69"
+    },
+    {
+      "brand_id": "5",
+      "brand_name": "Amoi",
+      "brand_image": "32611_Amoi.png",
+      "total_mobile": "47"
+    },
+    {
+      "brand_id": "4",
+      "brand_name": "Amazon",
+      "brand_image": "87448_Amazon-logo.jpg",
+      "total_mobile": "14"
+    },
+    {
+      "brand_id": "3",
+      "brand_name": "Allview",
+      "brand_image": "14492_allview.png",
+      "total_mobile": "120"
+    },
+    {
+      "brand_id": "2",
+      "brand_name": "Alcatel",
+      "brand_image": "25367_alcatel.jpg",
+      "total_mobile": "360"
+    },
+    {
+      "brand_id": "1",
+      "brand_name": "Acer",
+      "brand_image": "55150_Acer.png",
+      "total_mobile": "99"
+    }
+  ]
+
+
